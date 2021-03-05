@@ -1,0 +1,13 @@
+C:\Users\Marco\Desktop\Estudos VS-21\URImedia\URImedia\bin\Debug\netcoreapp3.1\URImedia.exe
+C:\Users\Marco\Desktop\Estudos VS-21\URImedia\URImedia\bin\Debug\netcoreapp3.1\URImedia.deps.json
+C:\Users\Marco\Desktop\Estudos VS-21\URImedia\URImedia\bin\Debug\netcoreapp3.1\URImedia.runtimeconfig.json
+C:\Users\Marco\Desktop\Estudos VS-21\URImedia\URImedia\bin\Debug\netcoreapp3.1\URImedia.runtimeconfig.dev.json
+C:\Users\Marco\Desktop\Estudos VS-21\URImedia\URImedia\bin\Debug\netcoreapp3.1\URImedia.dll
+C:\Users\Marco\Desktop\Estudos VS-21\URImedia\URImedia\bin\Debug\netcoreapp3.1\URImedia.pdb
+C:\Users\Marco\Desktop\Estudos VS-21\URImedia\URImedia\obj\Debug\netcoreapp3.1\URImedia.csprojAssemblyReference.cache
+C:\Users\Marco\Desktop\Estudos VS-21\URImedia\URImedia\obj\Debug\netcoreapp3.1\URImedia.AssemblyInfoInputs.cache
+C:\Users\Marco\Desktop\Estudos VS-21\URImedia\URImedia\obj\Debug\netcoreapp3.1\URImedia.AssemblyInfo.cs
+C:\Users\Marco\Desktop\Estudos VS-21\URImedia\URImedia\obj\Debug\netcoreapp3.1\URImedia.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Desktop\Estudos VS-21\URImedia\URImedia\obj\Debug\netcoreapp3.1\URImedia.dll
+C:\Users\Marco\Desktop\Estudos VS-21\URImedia\URImedia\obj\Debug\netcoreapp3.1\URImedia.pdb
+C:\Users\Marco\Desktop\Estudos VS-21\URImedia\URImedia\obj\Debug\netcoreapp3.1\URImedia.genruntimeconfig.cache
